@@ -1,1 +1,1 @@
-
+# How does a program read the cvMat object, in particular, what is the order of the pixel structure?
